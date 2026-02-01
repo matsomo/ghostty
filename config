@@ -1,0 +1,21 @@
+# Font
+font-family = Comic Mono
+font-size = 16
+
+# Window
+window-padding-x = 10
+window-padding-y = 10
+window-height = 48
+window-width = 150
+macos-titlebar-style = hidden
+
+# Colors - Tokyo Night with custom background
+theme = tokyonight
+background = 141414
+background-opacity = 0.85
+
+# Image support (Ghostty has native Kitty graphics protocol support)
+# No additional config needed - it's enabled by default
+
+# Hide tab bar when only one tab (macOS native tabs)
+macos-option-as-alt = true
