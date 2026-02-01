@@ -1,6 +1,6 @@
 # Font
 font-family = Comic Mono
-font-size = 14
+font-size = 12
 
 # Window
 window-padding-x = 10
@@ -10,5 +10,6 @@ window-width = 150
 macos-titlebar-style = hidden
 
 # Colors - Tokyo Night with custom background
+theme = TokyoNight
 background = 141414
 background-opacity = 0.85
